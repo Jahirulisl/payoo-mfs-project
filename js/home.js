@@ -29,7 +29,5 @@ document.getElementById('btn-add-money').addEventListener('click',function(event
   }
   else{
     alert('invaild adding money')
-  }
-
-
+  };
 });
